@@ -1,11 +1,11 @@
-<!-- ULTIMATE NEON RED HEADER -->
+<!-- CYBERPUNK GLITCH HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=300&section=header&text=Md.%20Fuad%20Hasan&fontSize=90&fontAlignY=35&fontColor=ff0033&stroke=ff0033&strokeWidth=4&animation=twinkling" alt="Header" style="max-width: 100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a0000,100:000000&height=250&section=header&text=Md.%20Fuad%20Hasan&fontSize=85&fontAlignY=50&fontColor=ff0033&animation=glitch&stroke=ff1a1a&strokeWidth=2" alt="Header" style="max-width: 100%;" />
 </p>
 
-<!-- Animated Neon Subtitle 1: Short & Punchy Roles (Orbitron Font) -->
+<!-- Animated "System Access" Sequence (Matches the glitch vibe) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&pause=800&color=ff0033&center=true&vCenter=true&width=600&lines=WEB+DEVELOPER;CREATIVE+DESIGNER;HARDCORE+GAMER;BUILDING+THE+FUTURE" alt="Subtitle" style="max-width: 100%;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&pause=800&color=ff0033&center=true&vCenter=true&width=600&lines=SYSTEM+ACCESS+GRANTED;INITIALIZING+NEON+PROTOCOL;WEB+DEVELOPER+%7C+DESIGNER+%7C+GAMER" alt="Subtitle" style="max-width: 100%;" />
 </p>
 
 <!-- Animated Typing Intro 2: Specific Details (Fira Code Font) -->
