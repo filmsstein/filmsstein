@@ -51,39 +51,6 @@
 </table>
 
 <br/>
-
-<!-- Neon Red Glowing Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" alt="divider" />
-</p>
-
-### 📊 The Matrix (Mainframe Analytics)
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <!-- GitHub Stats Panel (Using your custom Vercel instance) -->
-      <img src="https://github-readme-stats-w6i7wwcv8-md-fuad-hasan-s-projects.vercel.app/api?username=filmsstein&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0033&icon_color=ff1a1a&text_color=ffffff" alt="Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <!-- Streak Stats Panel -->
-      <img src="https://streak-stats.demolab.com/?user=filmsstein&theme=radical&hide_border=true&background=0D1117&stroke=ff0033&ring=ff0033&fire=ff1a1a&currStreakLabel=ff0033&text_color=ffffff" alt="Streaks" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <!-- Languages Panel (Using your custom Vercel instance) -->
-      <img src="https://github-readme-stats-w6i7wwcv8-md-fuad-hasan-s-projects.vercel.app/api/top-langs/?username=filmsstein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0033&text_color=ffffff" alt="Languages" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <!-- Activity Graph Panel -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=filmsstein&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=660011" alt="Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ### 🎬 System Boot Sequence
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=500&color=ff0033&center=true&vCenter=true&width=700&lines=%3E+Initializing+Creative+Engine...;+%3E+Loading+Angular+%26+Java+Modules...;+%3E+Syncing+MySQL+Databases...;+%3E+Booting+Adobe+Creative+Suite...;+%3E+System+Ready.+Let's+build+something+epic!" alt="System Boot" width="100%" />
