@@ -59,8 +59,8 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <!-- GitHub Stats Panel -->
-      <img src="https://github-readme-stats.vercel.app/api?username=filmsstein&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0033&icon_color=ff1a1a&text_color=ffffff" alt="Stats" width="100%" />
+      <!-- GitHub Stats Panel (Using your custom Vercel instance) -->
+      <img src="https://github-readme-stats-w6i7wwcv8-md-fuad-hasan-s-projects.vercel.app/api?username=filmsstein&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0033&icon_color=ff1a1a&text_color=ffffff" alt="Stats" width="100%" />
     </td>
     <td align="center" width="50%">
       <!-- Streak Stats Panel -->
@@ -69,8 +69,8 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <!-- Languages Panel -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filmsstein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0033&text_color=ffffff" alt="Languages" width="100%" />
+      <!-- Languages Panel (Using your custom Vercel instance) -->
+      <img src="https://github-readme-stats-w6i7wwcv8-md-fuad-hasan-s-projects.vercel.app/api/top-langs/?username=filmsstein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0033&text_color=ffffff" alt="Languages" width="100%" />
     </td>
     <td align="center" width="50%">
       <!-- Activity Graph Panel -->
