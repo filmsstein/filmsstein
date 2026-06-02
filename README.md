@@ -5,7 +5,7 @@
 <!-- Animated Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=700&lines=Student+at+Daffodil+International+University+%F0%9F%8E%93;Full-Stack+Developer+%26+Creative+Designer;Turning+Coffee+into+Code+%26+Pixels+%E2%98%95;Angular+%7C+Java+%7C+After+Effects" alt="Typing SVG" style="max-width: 100%;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=700&lines=Student+at+Daffodil+International+University+%F0%9F%8E%93;Web+Developer+%26+Creative+Designer;Competitive+Gamer; Turning+Coffee+into+Code+%26+Pixels+%E2%98%95;Angular+%7C+Java+%7C+After+Effects" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 </p>
 
