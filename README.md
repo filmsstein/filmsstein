@@ -5,7 +5,7 @@
 
 <!-- Animated Neon Subtitle (Updated to match the blue theme) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&pause=800&color=00f3ff&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;CREATIVE+DESIGNER;COMPETITIVE+GAMER;BUILDING+THE+FUTURE" alt="Subtitle" style="max-width: 100%;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&pause=800&color=00f3ff&center=true&vCenter=true&width=600&lines=WEB+DEVELOPER;CREATIVE+DESIGNER;HARDCORE+GAMER;BUILDING+THE+FUTURE" alt="Subtitle" style="max-width: 100%;" />
 </p>
 <!-- Animated Typing Intro -->
 <p align="center">
