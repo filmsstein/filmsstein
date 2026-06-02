@@ -68,7 +68,7 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fuwad7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="fuwad7" 
+    alt="filmsstein" 
     bg_color=#808080/></p>
 
 <br>
@@ -83,4 +83,4 @@
 <p align="left"> <a href="https://twitter.com/UnrealFuwad" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Fuwad Hasan](https://github.com/fuwad7)
+[Fuwad Hasan](https://github.com/filmsstein)
