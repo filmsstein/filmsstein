@@ -1,7 +1,8 @@
-<!-- Animated Neon Header -->
+
+<!-- TRUE CYBERPUNK CYAN NEON -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:7928ca,100:00dfd8&height=250&section=header&text=Md.%20Fuad%20Hasan&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&stroke=00dfd8&strokeWidth=2" alt="Header" style="max-width: 100%;" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111122,100:000000&height=250&section=header&text=Md.%20Fuad%20Hasan&fontSize=75&fontAlignY=35&fontColor=00ffff&stroke=00ffff&strokeWidth=1&animation=fadeIn" alt="Header" style="max-width: 100%;" />
+</p>>
 
 <!-- Animated Typing Intro -->
 <p align="center">
