@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" style="max-width: 100%;" />
 </p>
-
+<img src="https://raw.githubusercontent.com/filmsstein/filmsstein/output/github-contribution-grid-snake.svg" alt="Snake" />
 ### 📊 The Matrix (GitHub Analytics)
 <div align="center">
   <!-- Animated Activity Graph (Looks like a tech radar/EKG) -->
@@ -91,7 +91,6 @@
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/filmsstein/filmsstein/output/github-contribution-grid-snake.svg" alt="Snake" />
 <!-- Cool Footer with Animated Views Counter -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dfd8,50:7928ca,100:ff007f&height=120&section=footer&text=Thanks%20for%20visiting!%20Keep%20coding%20🚀&fontSize=25&fontColor=ffffff&animation=twinkling" alt="Footer" style="max-width: 100%;" />
