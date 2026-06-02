@@ -3,17 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a33,100:000000&height=300&section=header&text=Md.%20Fuad%20Hasan&fontSize=90&fontAlignY=35&fontColor=00f3ff&stroke=00f3ff&strokeWidth=4&animation=twinkling" alt="Header" style="max-width: 100%;" />
 </p>
 
-<!-- Animated Neon Subtitle (Updated to match the blue theme) -->
+<!-- Animated Neon Subtitle 1: Short & Punchy Roles (Orbitron Font) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&pause=800&color=00f3ff&center=true&vCenter=true&width=600&lines=WEB+DEVELOPER;CREATIVE+DESIGNER;HARDCORE+GAMER;BUILDING+THE+FUTURE" alt="Subtitle" style="max-width: 100%;" />
 </p>
-<!-- Animated Typing Intro -->
+
+<!-- Animated Typing Intro 2: Specific Details (Fira Code Font) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=700&lines=Student+at+Daffodil+International+University+%F0%9F%8E%93;Web+Developer+%26+Creative+Designer;Competitive+Gamer;Turning+Coffee+into+Code+%26+Pixels+%E2%98%95;Angular+%7C+Java+%7C+After+Effects" alt="Typing SVG" style="max-width: 100%;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=800&color=00f3ff&center=true&vCenter=true&width=700&lines=Student+at+Daffodil+International+University+%F0%9F%8E%93;Turning+Coffee+into+Code+%26+Pixels+%E2%98%95;Angular+%7C+Java+%7C+After+Effects;Bridging+Logic+and+Design+%F0%9F%A7%A0" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 </p>
-
 <!-- Fun Terminal / About Me Section -->
 <div align="center">
   <!-- FIXED: Changed herokuapp to demolab so it actually works -->
