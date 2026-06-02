@@ -1,8 +1,8 @@
 
-<!-- TRUE CYBERPUNK CYAN NEON -->
+<!-- SYNTHWAVE PINK NEON -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111122,100:000000&height=250&section=header&text=Md.%20Fuad%20Hasan&fontSize=75&fontAlignY=35&fontColor=00ffff&stroke=00ffff&strokeWidth=1&animation=fadeIn" alt="Header" style="max-width: 100%;" />
-</p>>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:220515,100:000000&height=250&section=header&text=Md.%20Fuad%20Hasan&fontSize=75&fontAlignY=35&fontColor=ff007f&stroke=ff007f&strokeWidth=1&animation=fadeIn" alt="Header" style="max-width: 100%;" />
+</p>
 
 <!-- Animated Typing Intro -->
 <p align="center">
