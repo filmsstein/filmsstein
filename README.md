@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:220515,100:000000&height=250&section=header&text=Md.%20Fuad%20Hasan&fontSize=75&fontAlignY=35&fontColor=ff007f&stroke=ff007f&strokeWidth=1&animation=fadeIn" alt="Header" style="max-width: 100%;" />
 </p>
+
 <!-- Animated Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +12,8 @@
 
 <!-- Fun Terminal / About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=18&duration=3000&color=7928CA&center=true&vCenter=true&width=800&lines=%3E+whoami;I'm+a+creative+developer+who+bridges+the+gap+between+logic+and+design.;I+build+robust+web+apps+and+make+them+look+absolutely+sick." alt="Terminal About" style="max-width: 100%;" />
+  <!-- FIXED: Changed herokuapp to demolab so it actually works -->
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=18&duration=3000&color=7928CA&center=true&vCenter=true&width=800&lines=%3E+whoami;I'm+a+creative+developer+who+bridges+the+gap+between+logic+and+design.;I+build+robust+web+apps+and+make+them+look+absolutely+sick." alt="Terminal About" style="max-width: 100%;" />
 </div>
 
 <br/>
@@ -60,12 +62,25 @@
 
 <br/>
 
-### 🎬 The Creative Process (Animative Showcase)
+### 🎬 The Creative Engine (System Boot)
 <div align="center">
-  <i>Where logic meets motion design</i>
-  <br/><br/>
-  <!-- Cool Animated Cyberpunk/Coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="max-width: 100%; border-radius: 15px; border: 2px solid #00dfd8;" />
+  <!-- Animative "Hacker Console" that boots up your specific tech stack -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=FF007F&center=true&vCenter=true&width=650&lines=%3E+Initializing+Creative+Engine...;+%3E+Loading+Angular+%26+Java+Modules...;+%3E+Syncing+MySQL+Databases...;+%3E+Booting+Adobe+Creative+Suite...;+%3E+System+Ready.+Let's+build+something+epic!" alt="System Boot" style="max-width: 100%;" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- High-Quality Cyberpunk / Synthwave Animation matching your pink neon theme -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Cyberpunk Aesthetic" style="max-width: 100%; border-radius: 15px; border: 2px solid #ff007f;" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Custom "Current Focus" Status Badges (Looks like a sleek HUD) -->
+  <img src="https://img.shields.io/badge/Status-🟢_Online_&_Coding-0D1117?style=flat-square&logo=github&logoColor=00dfd8&labelColor=0D1117" alt="Status" />
+  <img src="https://img.shields.io/badge/Current_Focus-After_Effects_%26_Angular-0D1117?style=flat-square&logo=adobe&logoColor=ff007f&labelColor=0D1117" alt="Focus" />
 </div>
 
 <br/>
