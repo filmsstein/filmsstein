@@ -25,24 +25,27 @@
 
 ---
 
-### 🧠 System Architecture (Tech Stack)
-<p align="left">
-  <i>The frameworks, engines, and environments pulsing through my daily workflow:</i>
-</p>
+### 📊 The Matrix (Mainframe Analytics)
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>💻 Frontend Core</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,angular,wordpress&theme=dark" alt="Web Skills" />
+    <td align="center" width="50%">
+      <!-- GitHub Stats Panel (Using your permanent production domain + cache breaker) -->
+      <img src="https://github-readme-stats-git-master-md-fuad-hasan-s-projects.vercel.app/api?username=filmsstein&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0033&icon_color=ff1a1a&text_color=ffffff&v=3" alt="Stats" width="100%" />
     </td>
-    <td width="33%" align="center" valign="top">
-      <h4>⚙️ Backend Architecture</h4>
-      <img src="https://skillicons.dev/icons?i=java,c,mysql&theme=dark" alt="Backend Skills" />
+    <td align="center" width="50%">
+      <!-- Streak Stats Panel -->
+      <img src="https://streak-stats.demolab.com/?user=filmsstein&theme=radical&hide_border=true&background=0D1117&stroke=ff0033&ring=ff0033&fire=ff1a1a&currStreakLabel=ff0033&text_color=ffffff" alt="Streaks" width="100%" />
     </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🎨 Creative Engine</h4>
-      <img src="https://skillicons.dev/icons?i=ps,ai,ae&theme=dark" alt="Design Skills" />
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Languages Panel (Using your permanent production domain + cache breaker) -->
+      <img src="https://github-readme-stats-git-master-md-fuad-hasan-s-projects.vercel.app/api/top-langs/?username=filmsstein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0033&text_color=ffffff&v=3" alt="Languages" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <!-- Activity Graph Panel -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=filmsstein&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=660011" alt="Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
