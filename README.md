@@ -41,7 +41,6 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" style="max-width: 100%;" />
 </p>
-<img src="https://raw.githubusercontent.com/filmsstein/filmsstein/output/github-contribution-grid-snake.svg" alt="Snake" />
 ### 📊 The Matrix (GitHub Analytics)
 <div align="center">
   <!-- Animated Activity Graph (Looks like a tech radar/EKG) -->
@@ -70,7 +69,7 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" style="max-width: 100%;" />
 </p>
-
+<img src="https://raw.githubusercontent.com/filmsstein/filmsstein/output/github-contribution-grid-snake.svg" alt="Snake" />
 ### 🌐 Let's Connect (Find me in the digital world)
 <div align="center">
   <a href="https://www.linkedin.com/in/md-fuad-hasan-38998140a/" target="_blank">
