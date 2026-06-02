@@ -1,86 +1,116 @@
-<h1 align="center">Hi 👋, I'm Mohammed Fuwad Hasan!</h1>
-<h3 align="center">Student at DIU, Bangladesh🌟.</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Hello,%20I'm%20[Your%20Name]!%20🚀&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=00f7ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,100:e0e0e0&height=220&section=header&text=Hello,%20I'm%20[Your%20Name]!%20🚀&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=0077b6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Hello,%20I'm%20[Your%20Name]!%20🚀&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=00f7ff" alt="Header Banner" style="max-width: 100%; height: auto;" />
+</picture>
 
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Creative+Full-Stack+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Angular;Java+%7C+C+%7C+MySQL;Adobe+Creative+Suite+Expert" alt="Typing SVG" style="max-width: 100%;" />
+  </a>
+</div>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=fuwad7&label=Profile%20views&color=0e75b6&style=flat"
-    alt="fuwad7" /> 
-  </p>
+<br/>
 
-<br>
+### 👨‍💻 About Me
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <ul style="list-style: none; padding: 0;">
+          <li>🔭 I’m currently working on <strong>[Your Current Project]</strong></li>
+          <li>🌱 I’m currently learning <strong>[New Tech, e.g., Three.js or Rust]</strong></li>
+          <li>👯 I’m looking to collaborate on <strong>[Open Source / Web Projects]</strong></li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <ul style="list-style: none; padding: 0;">
+          <li>💬 Ask me about <strong>Angular, Java, or Motion Design</strong></li>
+          <li>📫 How to reach me: <strong><a href="mailto:your.email@example.com">your.email@example.com</a></strong></li>
+          <li>⚡ Fun fact: <strong>I blend clean code with pixel-perfect design.</strong></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="400" width="400" /></p>
+<br/>
 
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **coderfuad@gmail.com**
-
-- ⚡ Interest's :- Aesthetics, Anime, Code, Food, Games, Movies, Music 🎵 and Sports
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/md-fuad-hasan-38998140a/](https://www.linkedin.com/in/md-fuad-hasan-38998140a" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="fuwadhasan" height="30" width="40" /></a>
-  <a href="https://fb.com/fuwxd" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="fuwadhasan" height="30" width="40" /></a>
-  <a href="https://instagram.com/_fuwxd" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="fuwad_7" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/fuwadhasan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="fuwadhasan" height="30" width="40" /></a>
- <a href="https://twitter.com/UnrealFuwad" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="fuwadhasan" height="30" width="40" /></a>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Animated Divider" style="max-width: 100%;" />
 </p>
 
-<br>
+### 🛠️ Tech Stack & Creative Tools
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  
+  <!-- Web Development -->
+  <div style="text-align: center;">
+    <h4>💻 Web Development</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,wordpress&theme=dark" alt="Web Skills" style="max-width: 100%; height: auto;" />
+  </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img
-      src="https://brandeps.com/logo-download/A/Adobe-After-Effects-CC-logo-vector-01.svg" alt="After Effects" width="40"
-      height="40" /> </a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img
-      src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-01.svg" alt="Photoshop" width="40"
-      height="40" /> </a> <a href="https://www.wordpress.org" target="_blank" rel="noreferrer"> <img
-      src="https://brandeps.com/icon-download/W/Wordpress-icon-vector-03.svg" alt="Wordpress" width="40"
-      height="40" /> </a> </p>
+  <!-- Backend & Systems -->
+  <div style="text-align: center;">
+    <h4>⚙️ Backend & Systems</h4>
+    <img src="https://skillicons.dev/icons?i=java,c,mysql&theme=dark" alt="Backend Skills" style="max-width: 100%; height: auto;" />
+  </div>
 
-<br>
+  <!-- Design & Motion -->
+  <div style="text-align: center;">
+    <h4>🎨 Design & Motion</h4>
+    <img src="https://skillicons.dev/icons?i=ps,ai,ae&theme=dark" alt="Design Skills" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
 
-<br>
+<br/>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fuwad7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="filmsstein" 
-    bg_color=#808080/></p>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Animated Divider" style="max-width: 100%;" />
+</p>
 
-<br>
+### 📊 GitHub Analytics
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f7ff&icon_color=00f7ff" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&bg_color=0D1117&stroke=00f7ff" alt="Streak Stats" style="max-width: 100%; height: auto;" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuwad7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f7ff" alt="Top Languages" style="max-width: 100%; height: auto;" />
+</div>
 
-<br>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuwad7&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="fuwad7" /></p>
-      
-<p align="left"> <a href="https://twitter.com/UnrealFuwad" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="max-width: 100%; height: auto;"/>
+  </a>
+</div>
 
-[Fuwad Hasan](https://github.com/filmsstein)
+<br/>
+
+### 🌐 Let's Connect
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;" />
+  </a>
+  <a href="https://twitter.com/[YOUR_TWITTER]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="max-width: 100%;" />
+  </a>
+  <a href="https://dribbble.com/[YOUR_DRIBBBLE]" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" style="max-width: 100%;" />
+  </a>
+  <a href="mailto:[YOUR_EMAIL]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Built with ❤️, lots of ☕, and pixel-perfect precision.</sub>
+  <br/>
+  <img src="https://profile-counter.glitch.me/[YOUR_GITHUB_USERNAME]/count.svg" alt="Profile Views" style="max-width: 100%; height: auto;" />
+</div>
