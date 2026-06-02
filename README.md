@@ -1,50 +1,112 @@
-<!-- ===== SYNTHWAVE NEON HEADER ===== -->
+<!-- SYNTHWAVE PINK NEON -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a0033,60:220515,100:000000&height=280section=header&text=Md.%20Fuad%20Hasan&fontSize=80&fontAlignY=35&fontColor=ff007f&stroke=00dfd8&strokeWidth=2&animation=fadeIn" alt="Header" style="max-width: 100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:220515,100:000000&height=250&section=header&text=Md.%20Fuad%20Hasan&fontSize=75&fontAlignY=35&fontColor=ff007f&stroke=ff007f&strokeWidth=1&animation=fadeIn" alt="Header" style="max-width: 100%;" />
 </p>
-
-<!-- ===== GLITCH BADGES STRIP ===== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-ff007f?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20Motion-00dfd8?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Vibe-Synthwave-7928ca?style=for-the-badge&labelColor=000000" />
-</p>
-
-<!-- ===== ANIMATED TYPING INTRO ===== -->
+<!-- Animated Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=900&color=00DFD8&center=true&vCenter=true&width=750&lines=Student+at+Daffodil+International+University+%F0%9F%8E%93;Full-Stack+Developer+%26+Creative+Designer;Turning+Coffee+into+Code+%26+Pixels+%E2%98%95;Angular+%7C+Java+%7C+After+Effects;Always+shipping.+Never+sleeping." alt="Typing SVG" style="max-width: 100%;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=700&lines=Student+at+Daffodil+International+University+%F0%9F%8E%93;Full-Stack+Developer+%26+Creative+Designer;Turning+Coffee+into+Code+%26+Pixels+%E2%98%95;Angular+%7C+Java+%7C+After+Effects" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 </p>
 
 <br/>
 
-<!-- ===== TERMINAL ABOUT ME ===== -->
+<!-- Fun Terminal / About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=18&duration=2800&color=7928CA&center=true&vCenter=true&width=850&lines=%3E+whoami;%3E+MFH+%E2%80%94+Creative+developer+bridging+logic+and+design.;%3E+I+build+robust+web+apps+and+make+them+look+absolutely+sick.;%3E+Currently+exploring%3A+AI+%2B+IoT+%2B+Cinematic+UI;%3E+sudo+make+me+a+sandwich+%F0%9F%A5%AA" alt="Terminal About" style="max-width: 100%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=18&duration=3000&color=7928CA&center=true&vCenter=true&width=800&lines=%3E+whoami;I'm+a+creative+developer+who+bridges+the+gap+between+logic+and+design.;I+build+robust+web+apps+and+make+them+look+absolutely+sick." alt="Terminal About" style="max-width: 100%;" />
 </div>
 
 <br/>
 
-<!-- ===== NEON DIVIDER ===== -->
+### 🧠 The Brain (Tech Stack)
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" />
+  <i>Tools and technologies I use to bring ideas to life</i>
 </p>
 
-<!-- ===== QUICK INFO CARD ===== -->
-### 🪩 The Signal (Quick Info)
+<div align="center">
+  <h3>💻 Web & Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,wordpress&theme=dark" alt="Web Skills" style="max-width: 100%;" />
+  
+  <h3>⚙️ Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=java,c,mysql&theme=dark" alt="Backend Skills" style="max-width: 100%;" />
+  
+  <h3>🎨 Creative & Design</h3>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae&theme=dark" alt="Design Skills" style="max-width: 100%;" />
+</div>
 
-<table align="center">
-<tr>
-<td>
+<br/>
 
-```yaml
-name:       "Md. Fuad Hasan"
-alias:      "MFH / filmsstein"
-role:       "CS Student & Creative Developer"
-location:   "Bangladesh 🇧🇩"
-university: "Daffodil International University"
-stack:      [Angular, Java, MySQL, AE, Figma]
-learning:   [AI/ML, IoT, Cloud, Motion Design]
-fuel:       "Coffee + Synthwave Playlists"
-status:     "Open to Collaborations"
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" style="max-width: 100%;" />
+</p>
+
+### 📊 The Matrix (GitHub Analytics)
+<div align="center">
+  <!-- Animated Activity Graph (Looks like a tech radar/EKG) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=filmsstein&theme=react-dark&hide_border=true&bg_color=0D1117&color=00dfd8&line=7928ca&point=ff007f&area=true&area_color=7928ca" alt="Activity Graph" style="max-width: 100%;" />
+</div>
+
+<div align="center">
+  <!-- Fixed Stats URL with explicit text color -->
+  <img src="https://github-readme-stats.vercel.app/api?username=filmsstein&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00dfd8&icon_color=ff007f&text_color=ffffff" alt="Stats" width="48%" style="max-width: 100%;" />
+  
+  <!-- Fixed Streak Stats URL (Heroku is dead, using new Demolab domain) -->
+  <img src="https://streak-stats.demolab.com/?user=filmsstein&theme=radical&hide_border=true&background=0D1117&stroke=00dfd8&ring=ff007f&fire=ff007f&currStreakLabel=00dfd8&text_color=ffffff" alt="Streaks" width="48%" style="max-width: 100%;" />
+</div>
+
+<div align="center">
+  <!-- Fixed Languages URL with explicit text color -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filmsstein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00dfd8&text_color=ffffff" alt="Languages" width="48%" style="max-width: 100%;" />
+</div>
+
+<br/>
+
+### 🎬 The Creative Process (Animative Showcase)
+<div align="center">
+  <i>Where logic meets motion design</i>
+  <br/><br/>
+  <!-- Cool Animated Cyberpunk/Coding GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="max-width: 100%; border-radius: 15px; border: 2px solid #00dfd8;" />
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" style="max-width: 100%;" />
+</p>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/filmsstein/filmsstein/output/github-contribution-grid-snake.svg" alt="Snake" style="max-width: 100%;" />
+
+### 🌐 Let's Connect (Find me in the digital world)
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-fuad-hasan-38998140a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/UnrealFuwad" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://youtube.com/@fuwxd" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com/_fuwxd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/fuwxd" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877B5?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Cool Footer with Animated Views Counter -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dfd8,50:7928ca,100:ff007f&height=120&section=footer&text=Thanks%20for%20visiting!%20Keep%20coding%20🚀&fontSize=25&fontColor=ffffff&animation=twinkling" alt="Footer" style="max-width: 100%;" />
+</p>
+
+<!-- FIXED: Reliable Visitor Counter matching your neon theme -->
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=filmsstein&label=Total%20Profile%20Views&labelColor=%237928ca&countColor=%2300dfd8&style=flat" alt="Visitor Count" />
+</p>
